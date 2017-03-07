@@ -1,0 +1,37 @@
+/*GERAL*/
+body{
+    line-height: 18px;
+    color: #6e6e64;
+    background-color: #f0f0f5;
+    font-size: 14px;
+    font-family: Mada ,Arial ,sans-serif;
+}
+h1,h2,h3,h4, h5, h6{
+
+}
+/*NAVEGAÇÃO*/
+.form-horizontal{
+    padding: 0% 10%;
+}
+
+table thead{
+    font-weight: bold;
+}
+
+@media only screen and (min-width: 1200px){
+    
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    
+}
+
+@media only screen and (min-width: 769px) and (max-width: 991px){
+    nav.menu .logo > img{
+        height: 80px;
+    }
+}
+
+@media only screen and (max-width: 768px){
+    
+}
